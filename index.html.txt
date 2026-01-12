@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Manage My Property</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+    <img src="logo.png" class="logo">
+    <h1>Manage My Property</h1>
+    <p>Protect. Maintain. Maximize.</p>
+</header>
+
+<section>
+    <h2>Our Philosophy</h2>
+    <p>
+        Elevating the art of property stewardship, we blend bespoke management with a refined architectural eye.
+        We believe that a property is more than an asset—it is a legacy that deserves meticulous care and a visionary approach.
+        From seamless tenant relations to the preservation of high-design interiors, our team provides peace of mind.
+    </p>
+</section>
+
+<section>
+    <h2>Our Services</h2>
+    <ul>
+        <li>Property Management</li>
+        <li>Tenant Coordination</li>
+        <li>Routine Inspections</li>
+        <li>Maintenance & Repairs</li>
+        <li>NRI Property Care</li>
+    </ul>
+</section>
+
+<section class="contact">
+    <h2>Contact Us</h2>
+    <form action="https://formspree.io/f/xbldnqoy" method="POST">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="email" name="email" placeholder="Your Email" required>
+        <textarea name="message" placeholder="Your Message" required></textarea>
+        <button type="submit">Send Message</button>
+    </form>
+</section>
+
+<a href="https://wa.me/919032176704" class="whatsapp-btn">💬</a>
+
+</body>
+</html>
